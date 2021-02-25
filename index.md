@@ -1,5 +1,14 @@
 ## 遠距工作者在台灣
 
+### 社群
+
+- 遠距工作者在台灣: <https://www.facebook.com/groups/1190343134374259/>
+  - 不定期線下聚會
+  - 不定期線上遠距工作者經驗分享會
+- Remote Taiwan: <https://www.facebook.com/groups/remotetaiwan>
+- Taipei Digital Nomads: <https://www.meetup.com/TaipeiDigitalNomads/>
+- Digital Nomads Around the World: <https://www.facebook.com/groups/DigitalNomadsAroundTheWorld/>
+
 ### 遠距工作職缺平台
 
 - CakeResume: <https://www.cakeresume.com/>
@@ -10,38 +19,21 @@
 
 - Paypal: <https://www.paypal.com/>
 - Stripe: <https://stripe.com/>
+- TransferWise: <https://transferwise.com>
+- Payoneer: <https://www.payoneer.com>
+- 西聯匯款 (京城銀行)：<https://customer.ktb.com.tw/new/personal/9c60e7b3>
+- Revolut: <https://www.revolut.com/>
+  - 較適合歐洲的雇主 
+
+### EOR 服務商
+
+- Slasify: <https://slasify.com/>
+
+---
 
 You can use the [editor on GitHub](https://github.com/alincode/work-remotely-in-Taiwan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alincode/work-remotely-in-Taiwan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
