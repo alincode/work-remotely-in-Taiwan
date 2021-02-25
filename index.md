@@ -1,6 +1,4 @@
-## 遠距工作者在台灣
-
-### 社群
+## 社群
 
 - 遠距工作者在台灣: <https://www.facebook.com/groups/1190343134374259/>
   - 不定期線下聚會
@@ -9,13 +7,19 @@
 - Taipei Digital Nomads: <https://www.meetup.com/TaipeiDigitalNomads/>
 - Digital Nomads Around the World: <https://www.facebook.com/groups/DigitalNomadsAroundTheWorld/>
 
-### 遠距工作職缺平台
+## 遠距工作職缺平台
 
 - CakeResume: <https://www.cakeresume.com/>
 - Yourator: <https://www.yourator.co/>
 - Meet.Jobs: <https://meet.jobs/>
 
-### 國際付款方式
+## 成員有台灣人的遠距公司
+
+- infuseAI: <https://www.infuseai.io/>
+- tauria: <https://tauria.com/>
+- gitlab: <https://gitlab.com/>
+
+## 國際付款方式
 
 - Paypal: <https://www.paypal.com/>
 - Stripe: <https://stripe.com/>
@@ -25,15 +29,14 @@
 - Revolut: <https://www.revolut.com/>
   - 較適合歐洲的雇主 
 
-### EOR 服務商
+## EOR 服務商
 
 - Slasify: <https://slasify.com/>
 
----
+## 工具
 
-You can use the [editor on GitHub](https://github.com/alincode/work-remotely-in-Taiwan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Clockwise: <https://www.getclockwise.com/>
+  - Clockwise is an intelligent calendar assistant that frees up your time so you can focus on what matters. 
 
 ### Support or Contact
 
