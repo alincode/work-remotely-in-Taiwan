@@ -15,9 +15,11 @@
 
 ## 成員有台灣人的遠距公司
 
-- infuseAI: <https://www.infuseai.io/>
-- tauria: <https://tauria.com/>
-- gitlab: <https://gitlab.com/>
+- Arc: <https://arc.dev/>
+- Gitlab: <https://gitlab.com/>
+- InfuseAI: <https://www.infuseai.io/>
+- Rooit: <https://www.rooit.me/>
+- Tauria: <https://tauria.com/>
 
 ## 國際付款方式
 
