@@ -21,6 +21,9 @@
 - InfuseAI: <https://www.infuseai.io/>
 - Rooit: <https://www.rooit.me/>
 - Tauria: <https://tauria.com/>
+- Poseidon Network: <https://poseidon.network/>
+- PeraPera: <https://www.perapera.ai/>
+- 好域股份有限公司: <https://treerful.com/>
 
 ## 國際付款方式
 
@@ -59,7 +62,3 @@
 
 - Clockwise: <https://www.getclockwise.com/>
   - Clockwise is an intelligent calendar assistant that frees up your time so you can focus on what matters. 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
