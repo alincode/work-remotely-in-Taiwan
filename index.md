@@ -9,13 +9,14 @@
 
 ## 遠距工作職缺平台
 
+- AngelList: <https://angel.co/>
+- Arc: <https://arc.dev/>
 - CakeResume: <https://www.cakeresume.com/>
 - Yourator: <https://www.yourator.co/>
 - Meet.Jobs: <https://meet.jobs/>
 
-## 成員有台灣人的遠距公司
+## 成員有台灣人的遠距公司 (100% 遠距公司)
 
-- Arc: <https://arc.dev/>
 - Gitlab: <https://gitlab.com/>
 - InfuseAI: <https://www.infuseai.io/>
 - Rooit: <https://www.rooit.me/>
@@ -35,7 +36,26 @@
 
 - Slasify: <https://slasify.com/>
 
-## 工具
+## 團隊協作平台 for Global
+
+- Microsoft Teams: <https://www.microsoft.com/en-ww/microsoft-teams/group-chat-software>
+- Cisco Webex Teams: <https://www.webex.com/team-collaboration.html>
+- Mattermost: <https://mattermost.com/>
+
+## 團隊協作平台 for China
+
+- Lark(飛書): <https://www.larksuite.com/>
+- 釘釘
+
+## Message App
+
+- Slack: <https://slack.com/>
+- Discord: <https://discord.com/>
+- Rolo: <https://www.rolo.chat/>
+- Chatwork: <https://go.chatwork.com/>
+- Rocket: <https://rocket.chat/>
+
+## 小工具
 
 - Clockwise: <https://www.getclockwise.com/>
   - Clockwise is an intelligent calendar assistant that frees up your time so you can focus on what matters. 
