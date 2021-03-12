@@ -69,4 +69,7 @@
 - Star Hostel: <https://www.starhostel.com.tw/co-working>
 
 ### 中區
-- Monospace: https://monospace.tw/
+- Monospace: <https://monospace.tw/>
+
+## Podcast
+- 佐編茶水間: <https://podcasts.apple.com/tw/podcast/%E4%BD%90%E7%B7%A8%E8%8C%B6%E6%B0%B4%E9%96%93/id1399974297>
