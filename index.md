@@ -14,6 +14,7 @@
 - CakeResume: <https://www.cakeresume.com/>
 - Yourator: <https://www.yourator.co/>
 - Meet.Jobs: <https://meet.jobs/>
+- Slasify: <https://slasify.com/en/remote-jobs>
 
 ## 成員有台灣人的遠距公司 (100% 遠距公司)
 
@@ -24,6 +25,7 @@
 - Poseidon Network: <https://poseidon.network/>
 - PeraPera: <https://www.perapera.ai/>
 - 好域股份有限公司: <https://treerful.com/>
+- Slasify（新加坡商寰宇優仕股份有限公司台灣分公司）: <https://slasify.com>
 
 ## 國際付款方式
 
@@ -35,7 +37,7 @@
 - Revolut: <https://www.revolut.com/>
   - 較適合歐洲的雇主 
 
-## EOR 服務商
+## EOR跨國僱用方案服務商
 
 - Slasify: <https://slasify.com/>
 
@@ -48,7 +50,8 @@
 ## 團隊協作平台 for China
 
 - Lark(飛書): <https://www.larksuite.com/>
-- 釘釘
+- DingTalk釘釘: <https://dingtalk.com>
+- 企业微信: <https://work.weixin.qq.com>
 
 ## Message App
 
