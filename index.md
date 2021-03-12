@@ -67,6 +67,7 @@
 
 ### 北區
 - Star Hostel: <https://www.starhostel.com.tw/co-working>
+- The Hive: <https://thehive.com/#Taiwan>
 
 ### 中區
 - Monospace: <https://monospace.tw/>
