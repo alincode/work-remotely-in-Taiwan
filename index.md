@@ -62,3 +62,11 @@
 
 - Clockwise: <https://www.getclockwise.com/>
   - Clockwise is an intelligent calendar assistant that frees up your time so you can focus on what matters. 
+
+## Co-working Space
+
+### 北區
+- Star Hostel: <https://www.starhostel.com.tw/co-working>
+
+### 中區
+- Monospace: https://monospace.tw/
