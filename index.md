@@ -41,6 +41,13 @@
 
 - Slasify: <https://slasify.com/>
 
+## 相關法令
+電傳勞動工作者: 根據國際勞工組織（ILO）定義，電傳勞動的意思，是「利用電腦軟體、網際網路等從事約定的工作，並利用電子科技回覆工作處理狀態」。
+
+- 台灣：勞工在事業場所外工作時間指導原則
+- 美國：電傳勞動促進法: 美國聯邦統一法典第五章第三部分，第6501條
+- 歐盟：電傳勞動框架規範
+
 ## 團隊協作平台 for Global
 
 - Microsoft Teams: <https://www.microsoft.com/en-ww/microsoft-teams/group-chat-software>
@@ -74,6 +81,9 @@
 
 ### 中區
 - Monospace: <https://monospace.tw/>
+
+### 南區
+- 好想工作室: <http://goodideas-studio.com/>
 
 ## Podcast
 - 佐編茶水間: <https://podcasts.apple.com/tw/podcast/%E4%BD%90%E7%B7%A8%E8%8C%B6%E6%B0%B4%E9%96%93/id1399974297>
