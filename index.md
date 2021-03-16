@@ -68,10 +68,15 @@
 - Chatwork: <https://go.chatwork.com/>
 - Rocket: <https://rocket.chat/>
 
-## 小工具
+## 工具類
 
 - Clockwise: <https://www.getclockwise.com/>
   - Clockwise is an intelligent calendar assistant that frees up your time so you can focus on what matters. 
+- worldtimebuddy: <https://worldtimebuddy.com>
+  - 時區轉換
+
+### 電子白板
+- Miro: <https://miro.com/>
 
 ## Co-working Space
 
