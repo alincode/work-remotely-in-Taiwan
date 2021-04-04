@@ -27,6 +27,15 @@
 - 好域股份有限公司: <https://treerful.com/>
 - Slasify（新加坡商寰宇優仕股份有限公司台灣分公司）: <https://slasify.com>
 
+## 書籍
+
+- 遠距工作模式：麥肯錫、IBM、英特爾、eBay都在用的職場工作術: <https://www.books.com.tw/products/0010856669>
+- 在家工作：從職場裡自由，在生活中冒險的個人實踐: <https://www.books.com.tw/products/0010864737>
+- 帶領遠端團隊：跨國、在家工作、自由接案時代的卓越成就法則: <https://www.books.com.tw/products/0010861388>
+- 遠距力：<https://www.books.com.tw/products/0010879146>
+- Nomad Life新遊牧生活：為了住在喜歡的地方，從今天起，選擇自由的工作方式吧！: <https://www.books.com.tw/products/0010599154>
+- 啟動遠距工作，設計你的理想生活: <https://www.books.com.tw/products/0010886838>
+
 ## 國際付款方式
 
 - Paypal: <https://www.paypal.com/>
