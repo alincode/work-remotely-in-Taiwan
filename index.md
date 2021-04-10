@@ -18,11 +18,13 @@
 
 ### 偏向國際的職缺
 
-- We Work Remotely: https://weworkremotely.com/
+- We Work Remotely: <https://weworkremotely.com/>
 - AngelList: <https://angel.co/>
 - Arc: <https://arc.dev/>
 
-## 成員有台灣人的遠距公司 (100% 遠距公司)
+## 成員有台灣人的遠距公司 
+
+### 100% 遠距公司
 
 - Gitlab: <https://gitlab.com/>
 - InfuseAI: <https://www.infuseai.io/>
@@ -32,6 +34,12 @@
 - PeraPera: <https://www.perapera.ai/>
 - 好域股份有限公司: <https://treerful.com/>
 - Slasify（新加坡商寰宇優仕股份有限公司台灣分公司）: <https://slasify.com>
+
+### 80% 遠距公司
+
+80% 的意思是，一週要碰一次面對面 (4/5 = 80%)，所以還是有部分的區域限制。
+
+- Phase: <http://phase.com/>
 
 ## 書籍
 
