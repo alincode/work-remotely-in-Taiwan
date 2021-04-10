@@ -9,12 +9,18 @@
 
 ## 遠距工作職缺平台
 
-- AngelList: <https://angel.co/>
-- Arc: <https://arc.dev/>
+### 偏向台灣的職缺
+
 - CakeResume: <https://www.cakeresume.com/>
 - Yourator: <https://www.yourator.co/>
 - Meet.Jobs: <https://meet.jobs/>
 - Slasify: <https://slasify.com/en/remote-jobs>
+
+### 偏向國際的職缺
+
+- We Work Remotely: https://weworkremotely.com/
+- AngelList: <https://angel.co/>
+- Arc: <https://arc.dev/>
 
 ## 成員有台灣人的遠距公司 (100% 遠距公司)
 
