@@ -41,6 +41,12 @@
 
 - Phase: <http://phase.com/>
 
+### unknow % 遠距公司
+
+職缺上，有特別標注有遠距制度
+
+-  旋轉拍賣Carousell: <https://tw.carousell.com/>
+
 ## 書籍
 
 - 遠距工作模式：麥肯錫、IBM、英特爾、eBay都在用的職場工作術: <https://www.books.com.tw/products/0010856669>
