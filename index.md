@@ -22,7 +22,7 @@
 - AngelList: <https://angel.co/>
 - Arc: <https://arc.dev/>
 
-## 成員有台灣人的遠距公司 
+## 成員有台灣人的遠距公司 / 組織
 
 ### 100% 遠距公司
 
@@ -35,6 +35,8 @@
 - Slasify（新加坡商寰宇優仕股份有限公司台灣分公司）: <https://slasify.com>
 - Branch8: <https://www.branch8.com/>
 - Doist: <https://doist.com/>
+- Opyn: <https://www.opyn.co/>
+- Ethereum Foundation
 
 ### 80% 遠距公司
 
