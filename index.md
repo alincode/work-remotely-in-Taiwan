@@ -34,6 +34,7 @@
 - 好域股份有限公司: <https://treerful.com/>
 - Slasify（新加坡商寰宇優仕股份有限公司台灣分公司）: <https://slasify.com>
 - Branch8: <https://www.branch8.com/>
+- Doist: <https://doist.com/>
 
 ### 80% 遠距公司
 
