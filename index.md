@@ -30,7 +30,6 @@
 - InfuseAI: <https://www.infuseai.io/>
 - Rooit: <https://www.rooit.me/>
 - Tauria: <https://tauria.com/>
-- Poseidon Network: <https://poseidon.network/>
 - PeraPera: <https://www.perapera.ai/>
 - 好域股份有限公司: <https://treerful.com/>
 - Slasify（新加坡商寰宇優仕股份有限公司台灣分公司）: <https://slasify.com>
@@ -40,12 +39,14 @@
 80% 的意思是一週要碰面一次 (4/5 = 80%)，所以會居住地點的局限性。
 
 - Phase: <http://phase.com/>
+- Poseidon Network: <https://poseidon.network/>
 
 ### unknow % 遠距公司
 
 職缺上，有特別標注有遠距制度
 
 -  旋轉拍賣Carousell: <https://tw.carousell.com/>
+-  atlassian: <https://www.atlassian.com/>
 
 ## 書籍
 
