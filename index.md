@@ -49,8 +49,9 @@
 
 職缺上，有特別標注有遠距制度
 
--  旋轉拍賣Carousell: <https://tw.carousell.com/>
--  atlassian: <https://www.atlassian.com/>
+-  旋轉拍賣 Carousell: <https://tw.carousell.com/>
+-  Atlassian: <https://www.atlassian.com/>
+-  幣安 Binance: <https://www.binance.com/>
 
 ## 書籍
 
