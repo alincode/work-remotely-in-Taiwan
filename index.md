@@ -37,6 +37,7 @@
 - Doist: <https://doist.com/>
 - Opyn: <https://www.opyn.co/>
 - Ethereum Foundation
+- Libertas CO., LTD.: <https://www.twincn.com/item.aspx?no=83191954>
 
 ### 80% 遠距公司
 
