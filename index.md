@@ -45,6 +45,7 @@
 
 - Phase: <http://phase.com/>
 - Poseidon Network: <https://poseidon.network/>
+- Pelith: <https://pelith.com/>
 
 ### 50% 遠距
 
