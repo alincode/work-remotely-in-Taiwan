@@ -39,14 +39,18 @@
 - Ethereum Foundation
 - Libertas CO., LTD.: <https://www.twincn.com/item.aspx?no=83191954>
 
-### 80% 遠距公司
+### 80% 遠距
 
 80% 的意思是一週要碰面一次 (4/5 = 80%)，所以會居住地點的局限性。
 
 - Phase: <http://phase.com/>
 - Poseidon Network: <https://poseidon.network/>
 
-### unknow % 遠距公司
+### 50% 遠距
+
+- OneDegree: <https://www.onedegree.hk/zh-hk>
+
+### unknow % 遠距
 
 職缺上，有特別標注有遠距制度
 
