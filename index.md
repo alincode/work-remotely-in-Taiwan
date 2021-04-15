@@ -10,6 +10,7 @@
 ## Repo
 
 - <https://github.com/remoteintech/remote-jobs>
+- <https://github.com/lerrua/remote-jobs-brazil >
 
 ## 遠距工作職缺平台
 
