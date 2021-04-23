@@ -111,6 +111,7 @@ Frontend
 - Microsoft Teams: <https://www.microsoft.com/en-ww/microsoft-teams/group-chat-software>
 - Cisco Webex Teams: <https://www.webex.com/team-collaboration.html>
 - Mattermost: <https://mattermost.com/>
+- Workspace by Facebook: <https://www.workplace.com/>
 
 ## 團隊協作平台 for China
 
@@ -149,6 +150,7 @@ Frontend
 - 好想工作室: <http://goodideas-studio.com/>
 
 ## Podcast
+- 工程師的拉機話: <https://podcasts.apple.com/podcast/id1519555415>
 - 佐編茶水間: <https://podcasts.apple.com/tw/podcast/%E4%BD%90%E7%B7%A8%E8%8C%B6%E6%B0%B4%E9%96%93/id1399974297>
 
 ## Mise
