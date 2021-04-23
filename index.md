@@ -7,11 +7,6 @@
 - Taipei Digital Nomads: <https://www.meetup.com/TaipeiDigitalNomads/>
 - Digital Nomads Around the World: <https://www.facebook.com/groups/DigitalNomadsAroundTheWorld/>
 
-## Repo
-
-- <https://github.com/remoteintech/remote-jobs>
-- <https://github.com/lerrua/remote-jobs-brazil >
-
 ## 遠距工作職缺平台
 
 ### 偏向台灣的職缺
@@ -26,6 +21,23 @@
 - We Work Remotely: <https://weworkremotely.com/>
 - AngelList: <https://angel.co/>
 - Arc: <https://arc.dev/>
+
+### Job Github Repo
+
+零散的職缺訊息，不一定是遠距工作職缺，但有時候會出現。
+
+Java
+- <https://github.com/twjug/jobs>
+
+Go
+- <https://github.com/golangtw/jobs>
+
+Frontend
+- https://github.com/f2etw/jobs
+
+
+- <https://github.com/remoteintech/remote-jobs>
+- <https://github.com/lerrua/remote-jobs-brazil>
 
 ## 成員有台灣人的遠距公司 / 組織
 
