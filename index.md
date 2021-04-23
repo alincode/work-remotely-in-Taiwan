@@ -95,9 +95,10 @@ Mise
 - Revolut: <https://www.revolut.com/>
   - 較適合歐洲的雇主 
 
-## EOR跨國僱用方案服務商
+## EOR 跨國僱用方案服務商
 
 - Slasify: <https://slasify.com/>
+- deel: <https://www.letsdeel.com/>
 
 ## 相關法令
 電傳勞動工作者: 根據國際勞工組織（ILO）定義，電傳勞動的意思，是「利用電腦軟體、網際網路等從事約定的工作，並利用電子科技回覆工作處理狀態」。
