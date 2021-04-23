@@ -35,7 +35,7 @@ Go
 Frontend
 - https://github.com/f2etw/jobs
 
-
+Mise
 - <https://github.com/remoteintech/remote-jobs>
 - <https://github.com/lerrua/remote-jobs-brazil>
 
