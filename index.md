@@ -133,6 +133,8 @@ Mise
   - Clockwise is an intelligent calendar assistant that frees up your time so you can focus on what matters. 
 - worldtimebuddy: <https://worldtimebuddy.com>
   - 時區轉換
+- MAYO: <https://www.mayohr.com/tw>
+  - 雲端人資系統 
 
 ### 電子白板
 - Miro: <https://miro.com/>
