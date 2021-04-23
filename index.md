@@ -33,7 +33,7 @@ Go
 - <https://github.com/golangtw/jobs>
 
 Frontend
-- https://github.com/f2etw/jobs
+- <https://github.com/f2etw/jobs>
 
 Mise
 - <https://github.com/remoteintech/remote-jobs>
